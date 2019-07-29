@@ -1,0 +1,10 @@
+*.stl
+*.gcode
+*.deps
+*.png
+*.amf
+*.obj
+*.3mf
+*.tmp
+*.FCStd?
+*.fcstd?
