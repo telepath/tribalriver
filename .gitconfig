@@ -1,0 +1,3 @@
+[diff "zip"]
+  textconv = unzip -c -a
+  binary = true
