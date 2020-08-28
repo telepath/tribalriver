@@ -1,1 +1,1 @@
-lib/openscad-slicer-makefile/makefile
+lib/openscad-slicer-makefile/makefile.freecad
